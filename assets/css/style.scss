@@ -1,0 +1,34 @@
+---
+sitemap: false
+---
+
+/*
+* Common Variables
+*
+* Feel free to change!
+*
+*/
+
+/* FONTS */
+@font-face {
+  font-family: ComicSans;
+  src: url(/insurgencia2punto0/assets/fonts/comicsans.ttf)
+}
+$main-font: ComicSans, Arial, sans-serif;
+$heading-font: ComicSans;
+$regular-font-size: 20px;
+
+/*
+* COLOR.
+*
+* Make sure to leave color-scheme in config file empty for granular control
+*
+*/
+
+$text-color: #454545;
+$heading-color: #404040;
+$link-color: #841212;
+
+
+@import "ed";
+@import "syntax";

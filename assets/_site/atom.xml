@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Insurgencia 2.0</title>
+ <link href="http://localhost:4000//atom.xml" rel="self"/>
+ <link href="http://localhost:4000//"/>
+ <updated>2018-05-23T17:18:56-05:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Joao Gabriel ALmeida</name>
+   <email>jgabrielrtalmeida@gmail.com</email>
+ </author>
+
+ 
+
+</feed>
